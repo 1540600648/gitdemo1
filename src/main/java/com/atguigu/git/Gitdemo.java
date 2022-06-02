@@ -9,6 +9,7 @@ public class Gitdemo {
         System.out.println("hot-fix");
         System.out.println("master");
         System.out.println("master22222222222");
+        System.out.println("pull");
     }
 
 }
